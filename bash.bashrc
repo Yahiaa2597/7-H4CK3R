@@ -50,6 +50,8 @@ echo -e """
 echo ' '
 date | lolcat
 echo ' '
+                                                                                          cal | lolcat   
+echo ' '
 echo -e $GR"            ☆☆☆ 《$RD  T E R M U X  $GR》 ☆☆☆"
 #
 echo -e $PP"     ◦•●◉✿★★★$RD H$YL A$GY C$LBL K$GR E$PP R$WH ♡$RD T$GR E$YL A$LBL M$PP ★★★✿◉●•◦"
