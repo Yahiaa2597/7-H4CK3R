@@ -52,7 +52,7 @@ date | lolcat
 echo ' '
 echo -e $GR"            ☆☆☆ 《$RD  T E R M U X  $GR》 ☆☆☆"
 #
-echo -e $PP"     ◦•●◉✿★★★$RD M$YL Y$GY A$LBL N$GR M$PP A$BL R$WH ♡$RD T$GR E$YL A$LBL M$PP ★★★✿◉●•◦"
+echo -e $PP"     ◦•●◉✿★★★$RD H$YL A$GY C$LBL K$GR E$PP R$WH ♡$RD T$GR E$YL A$LBL M$PP ★★★✿◉●•◦"
 echo ' '
 echo ' '
 echo
