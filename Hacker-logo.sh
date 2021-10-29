@@ -99,7 +99,7 @@ cd 7-H4CK3R
 pkg install figlet -y
 echo ""
 clear
-echo "                   "DO YOU KNOW MARMU ??  | lolcat
+echo "                   "PLEASE LIKE & FOLLOW MY PAGE !! | lolcat
 
 pkg install toilet -y
 cd $HOME
@@ -115,7 +115,7 @@ figlet -f big  '  WE ' | lolcat
 figlet -f big '  ARE   ' | lolcat
 figlet -f big ' HACKER ' | lolcat
 
-echo "  LIKE & FOLLOW MY PAGE PLEASE" | lolcat
+echo "  PLEASE ENTER FOR LOGOUT & RESTART !" | lolcat
 echo
 sleep 0.2
 
