@@ -1,4 +1,4 @@
-# CODED BY MarMu
+# CREATOR       : MarMu
 # FACEBOOK PAGE : Technology By MarMu
 # DO NOT TRY COPY OR EDIT THIS FILE
 # ENJOY GUYS
