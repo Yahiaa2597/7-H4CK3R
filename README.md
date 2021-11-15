@@ -20,7 +20,7 @@
 👉 bash Hacker-logo.sh
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octomouse.svg)
+![This is an image](https://myoctocat.com/assets/images/base-mouse.svg)
 
 
 ![](https://img.shields.io/badge/Github-BabyDragoN_MarMu-blue.svg?style=for-the-badge)
