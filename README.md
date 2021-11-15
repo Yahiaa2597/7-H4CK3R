@@ -1,4 +1,4 @@
-# 7-H4CK3R
+# 7-H4CK3R :shipit:
 👉 apt update
 
 👉 apt update -y
