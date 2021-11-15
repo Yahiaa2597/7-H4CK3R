@@ -1,4 +1,4 @@
-# 7-H4CK3R :shipit:
+# 7-H4CK3R :trollface:
 
 **Creation By _MarMu_** :shipit:
 
@@ -20,8 +20,6 @@
 👉 bash Hacker-logo.sh
 
 
-![This is an image](https://myoctocat.com/assets/images/base-kitty
-.svg)
 
 
 ![](https://img.shields.io/badge/Github-BabyDragoN_MarMu-blue.svg?style=for-the-badge)
